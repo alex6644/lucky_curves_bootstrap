@@ -4,8 +4,20 @@
   border-color: #F9C4D4;
 }
 
+.btn-primary:focus{
+  background-color: white;
+  color: #F9C4D4;
+  border-color: #F9C4D4;
+}
+
 .btn-secondary{
   background-color: white;
   color: #F9C4D4;
+  border-color: #F9C4D4;
+}
+
+.btn-secondary:focus{
+  background-color: #F9C4D4;
+  color: white;
   border-color: #F9C4D4;
 }
